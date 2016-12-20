@@ -8,16 +8,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="313dc99a7963523871495897ca11aa8472b3c6fd">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\google-http-client-android-1.20.0_3480b58a38396991e70fd31476905a5b9d97fdb0.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\BuildItBiggerUdacity-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\com.android.support-support-fragment-25.1.0_e2a4a098bb7bf8a545325c77ba9d51a72e287e60.jar" />
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\google-http-client-android-1.20.0_3480b58a38396991e70fd31476905a5b9d97fdb0.jar" />
     </item>
     <item
         is-multidex="false"
@@ -26,7 +17,16 @@
         optimize="true"
         revision="24.0.3"
         sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\com.android.support-animated-vector-drawable-25.1.0_f3885dffa90cca94313603504d6535ba283d6734.jar" />
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\com.android.support-animated-vector-drawable-25.1.0_f3885dffa90cca94313603504d6535ba283d6734.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\BuildItBiggerUdacity-master\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\com.android.support-support-fragment-25.1.0_e2a4a098bb7bf8a545325c77ba9d51a72e287e60.jar" />
     </item>
     <item
         is-multidex="false"
@@ -35,7 +35,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="381ae6c8add7c98e9bcddb1e0b898400cd6fc3f7">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\guava-jdk5-13.0_6a4cf85b527ec1d006631fffea6ca0f94c56696c.jar" />
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\guava-jdk5-13.0_6a4cf85b527ec1d006631fffea6ca0f94c56696c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -44,7 +44,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\com.android.support-appcompat-v7-25.1.0_72ba762d28de47b9bc2a57080dc533d6c8f57068.jar" />
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\com.android.support-appcompat-v7-25.1.0_72ba762d28de47b9bc2a57080dc533d6c8f57068.jar" />
     </item>
     <item
         is-multidex="false"
@@ -53,7 +53,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="93d82db2bca534960253f43424b2ba9d7638b4d2">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\google-http-client-1.20.0_61540de760f25e8e800f61b8d7a07ae5d34e70de.jar" />
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\google-http-client-1.20.0_61540de760f25e8e800f61b8d7a07ae5d34e70de.jar" />
     </item>
     <item
         is-multidex="false"
@@ -62,16 +62,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="d38084015027549951cbaea5d5f6fb795cc81151">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\com.android.support-transition-25.1.0_68202e290fcbf73671c07368e544575b733ddfec.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\BuildItBiggerUdacity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="57c2eceb8548de84509d1ebc293fedec53231f6c">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\com.google.android.gms-play-services-gass-10.0.1_86d6dabdd4281cb52ce1d724e5be68b2f293db5d.jar" />
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\com.android.support-transition-25.1.0_68202e290fcbf73671c07368e544575b733ddfec.jar" />
     </item>
     <item
         is-multidex="false"
@@ -80,7 +71,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="f6c3aed1cdfa21b5c1737c915186ea93a95a58bd">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\jackson-core-2.1.3_02031e1a8ad0278f042d9f1a7872ffb42dfce143.jar" />
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\jackson-core-2.1.3_02031e1a8ad0278f042d9f1a7872ffb42dfce143.jar" />
     </item>
     <item
         is-multidex="false"
@@ -89,16 +80,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\com.android.support-support-vector-drawable-25.1.0_67feb2fb2175e598f95192be3fabb0d29760339a.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\BuildItBiggerUdacity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="25438f55fc6d906a0e72f30b21487541430ede43">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\com.google.android.gms-play-services-base-10.0.1_9a600940fec7a104ba23c6e23230f49f3b295266.jar" />
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\com.android.support-support-vector-drawable-25.1.0_67feb2fb2175e598f95192be3fabb0d29760339a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -107,16 +89,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\com.android.support-support-media-compat-25.1.0_11e2ec30c4ac0612502a49047542655442534793.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\BuildItBiggerUdacity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\com.google.android.gms-play-services-tasks-10.0.1_a4a789457e476690cf73a0765c9a37b20ee315c2.jar" />
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\com.android.support-support-media-compat-25.1.0_11e2ec30c4ac0612502a49047542655442534793.jar" />
     </item>
     <item
         is-multidex="false"
@@ -125,7 +98,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\com.android.support-recyclerview-v7-25.1.0_310ca30a502456a07bb57858f6e8776c0b0f4b0b.jar" />
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\com.android.support-recyclerview-v7-25.1.0_310ca30a502456a07bb57858f6e8776c0b0f4b0b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -134,7 +107,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="05673179575c32b69a474334255c3044adf18d40">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\google-api-client-android-1.20.0_4794ed77c633c14eb3171be68f385d98fdb3237d.jar" />
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\google-api-client-android-1.20.0_4794ed77c633c14eb3171be68f385d98fdb3237d.jar" />
     </item>
     <item
         is-multidex="false"
@@ -143,7 +116,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="1d086ac5756475ddf451af2e2df6e288d18608ca">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\google-oauth-client-1.20.0_cf18defa8d7a759ed9756b981e24b95299ce1f5a.jar" />
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\google-oauth-client-1.20.0_cf18defa8d7a759ed9756b981e24b95299ce1f5a.jar" />
     </item>
     <item
         is-multidex="false"
@@ -152,16 +125,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\com.android.support-support-v4-25.1.0_92780465278f6fa036f888771b6663aec83181cc.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\BuildItBiggerUdacity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\com.google.android.gms-play-services-basement-10.0.1_dcff5c23b75834e93c4e844a353b4f8271d5de2d.jar" />
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\com.android.support-support-v4-25.1.0_92780465278f6fa036f888771b6663aec83181cc.jar" />
     </item>
     <item
         is-multidex="false"
@@ -170,7 +134,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="40719ea6961c0cb6afaeb6a921eaa1f6afd4cfdf">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\jsr305-1.3.9_a0468e3be736812df1ac495dbcb0cb8b509acd32.jar" />
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\jsr305-1.3.9_a0468e3be736812df1ac495dbcb0cb8b509acd32.jar" />
     </item>
     <item
         is-multidex="false"
@@ -179,7 +143,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="d3e66209ae9e749b2d6833761e7885f60f285564">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\google-api-client-1.20.0_9dcca256fad48c7a1f4c0cc191c453350e8716ee.jar" />
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\google-api-client-1.20.0_9dcca256fad48c7a1f4c0cc191c453350e8716ee.jar" />
     </item>
     <item
         is-multidex="false"
@@ -187,8 +151,8 @@
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
-        sha1="d256286ecf47154c391169c839f9b11c6fd27698">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\joketelling_81fad27437774634726929bf4874b2eae598e63c.jar" />
+        sha1="236ab5b832d6f0c95d7dd578990b51d58beb8873">
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\joketelling_81fad27437774634726929bf4874b2eae598e63c.jar" />
     </item>
     <item
         is-multidex="false"
@@ -197,7 +161,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\com.android.support-support-compat-25.1.0_a33b6179aebab70d56bf8e484219080d40f5163f.jar" />
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\com.android.support-support-compat-25.1.0_a33b6179aebab70d56bf8e484219080d40f5163f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -206,7 +170,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="b8a75f1ac76de39626363fc1615d5aad6bbd5011">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\BuildItBiggerUdacity-master-jokedisplay-unspecified_09ac18316f410c0dd0f786802885e65673f36de3.jar" />
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\BuildItBiggerUdacity-master-jokedisplay-unspecified_09ac18316f410c0dd0f786802885e65673f36de3.jar" />
     </item>
     <item
         is-multidex="false"
@@ -215,16 +179,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\support-annotations-25.1.0_24f81f5fde5b069f0da82610787fc560e44f6e6f.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\BuildItBiggerUdacity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="d0460bf07cc3657e0be518ca01c174493951c6b8">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\com.google.android.gms-play-services-ads-10.0.1_7d0f87833661724ac650e9c9b82708171661e49c.jar" />
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\support-annotations-25.1.0_24f81f5fde5b069f0da82610787fc560e44f6e6f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -233,16 +188,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\com.android.support-design-25.1.0_02787bef59f8497a4af2b66175a56b3b29ad390b.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\BuildItBiggerUdacity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="1d193729baf37df3d902a423291423a0df7e3779">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\com.google.android.gms-play-services-clearcut-10.0.1_9b7128cf97a3ebd017f72e15fff059dc4481179f.jar" />
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\com.android.support-design-25.1.0_02787bef59f8497a4af2b66175a56b3b29ad390b.jar" />
     </item>
     <item
         is-multidex="false"
@@ -251,7 +197,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\com.android.support-support-core-ui-25.1.0_1ca600bc0177abd4f5e726e3a04eb5e24f205f5f.jar" />
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\com.android.support-support-core-ui-25.1.0_1ca600bc0177abd4f5e726e3a04eb5e24f205f5f.jar" />
     </item>
     <item
         is-multidex="false"
@@ -260,7 +206,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\com.android.support-support-core-utils-25.1.0_d282143e7ca679c3324cc9fae8d9d89343b73eed.jar" />
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\com.android.support-support-core-utils-25.1.0_d282143e7ca679c3324cc9fae8d9d89343b73eed.jar" />
     </item>
     <item
         is-multidex="false"
@@ -269,16 +215,7 @@
         optimize="true"
         revision="24.0.3"
         sha1="2408070b2abec043624d35b35e30450f1b663858">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\google-http-client-jackson2-1.20.0_6305bc1b2c3e1ae84be5bdf672b2c2072ada5d30.jar" />
-    </item>
-    <item
-        is-multidex="false"
-        jar="F:\BuildItBiggerUdacity-master\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\10.0.1\jars\classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="24.0.3"
-        sha1="b955cb3a1ad6f1b6ff728ce1e0cd592c1717b440">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\com.google.android.gms-play-services-ads-lite-10.0.1_ae5a7ae41be90cde6bc4363b60e13b8bb302a4bc.jar" />
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\google-http-client-jackson2-1.20.0_6305bc1b2c3e1ae84be5bdf672b2c2072ada5d30.jar" />
     </item>
     <item
         is-multidex="false"
@@ -286,8 +223,8 @@
         jumboMode="false"
         optimize="true"
         revision="24.0.3"
-        sha1="2a05f39129a5bfca64403c2ae12c77e5cd77d364">
-        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\free\debug\backend-android-endpoints_31c8bddea66f772865210f4d679cc2c90873bb0a.jar" />
+        sha1="3f243a5e6e78b9529a667383c1e92ad534925d5a">
+        <dex dex="F:\BuildItBiggerUdacity-master\app\build\intermediates\pre-dexed\paid\debug\backend-android-endpoints_31c8bddea66f772865210f4d679cc2c90873bb0a.jar" />
     </item>
 
 </items>
